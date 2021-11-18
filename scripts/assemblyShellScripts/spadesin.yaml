@@ -1,0 +1,27 @@
+[
+  {
+    orientation: "fr",
+    type: "paired-end",
+    left reads: [
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_1_1P.fastq.gz",
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_3_1P.fastq.gz",
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_5_1P.fastq.gz"
+    ],
+    right reads: [
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_1_2P.fastq.gz",
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_3_2P.fastq.gz",
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_5_2P.fastq.gz"
+    ]
+  },
+  {
+    type: "single",
+    single reads: [
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_1_1U.fastq.gz",
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_1_2U.fastq.gz",
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_3_1U.fastq.gz",
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_3_2U.fastq.gz",
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_5_1U.fastq.gz",
+      "/data/benjijp/AAFCBBMG/data/BB1_PoPest_5_2U.fastq.gz"
+    ]
+  }
+]
